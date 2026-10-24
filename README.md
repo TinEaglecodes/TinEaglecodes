@@ -8,7 +8,7 @@
 
 * 👨‍💻 focused on building practical projects and growing my development skills.
 
-* 🛠️ My main tools include JavaScript, Python, TypeScript, React, Next.js, Node.js, Python and Tailwind CSS.
+* 🛠️ My main tools include JavaScript, TypeScript, React, Next.js, Node.js, Python and Tailwind CSS.
 
 * 🌱 Always working on self-improvement, learning new technologies, and becoming better at what I do.
 
@@ -21,7 +21,7 @@
 </h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,html,css,js,python,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,html,css,js,&perline=8" />
   </a>
 
 
